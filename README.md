@@ -53,9 +53,4 @@ A full-stack web application built to streamline guest bookings and administrati
 
 ---
 
-### Development Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrathamShetty26&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamShetty26&layout=compact&theme=dark&hide_border=true&langs_count=5" alt="Top Languages" height="160" />
-</p>
